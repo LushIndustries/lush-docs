@@ -44,7 +44,7 @@
     },
     {
       "source": "/invite",
-      "destination": "https://discord.com/oauth2/authorize?client_id=1090740464786886657&scope=bot+applications.commands&permissions=142"
+      "destination": "https://discord.com/api/oauth2/authorize?client_id=1090740464786886657&permissions=8&scope=bot%20applications.commands"
     },
     {
       "source": "/discord",
@@ -107,6 +107,6 @@
   ],
   "footerSocials": {
     "discord": "https://discord.gg/HfQMA6pAXp",
-    "github": "https://github.com/doxiado-dev/docs"
+    "github": "https://github.com/LushIndustries/lush-docs"
   }
 }
